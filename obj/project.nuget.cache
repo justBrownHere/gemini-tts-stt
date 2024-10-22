@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "owAKTiCP7o0=",
+  "success": true,
+  "projectFilePath": "/Users/agthienhuong/Desktop/brown/GeminiTestCSharp/GeminiTestCSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/agthienhuong/.nuget/packages/dotnetgeminisdk/1.0.14/dotnetgeminisdk.1.0.14.nupkg.sha512",
+    "/Users/agthienhuong/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/agthienhuong/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

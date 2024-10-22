@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeminiTestCSharp", "GeminiTestCSharp.csproj", "{13301476-27EB-4E4F-B930-26967F3D3152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13301476-27EB-4E4F-B930-26967F3D3152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13301476-27EB-4E4F-B930-26967F3D3152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13301476-27EB-4E4F-B930-26967F3D3152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13301476-27EB-4E4F-B930-26967F3D3152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A8FDB1C-30D9-430B-A8BF-3B49037CC8B2}
+	EndGlobalSection
+EndGlobal
